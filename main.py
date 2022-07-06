@@ -24,18 +24,7 @@ peso3 = input('Entre com o terceiro peso: ')
 altura3 = input('Entre com a terceira altura: ')
 
 
-print(f"Primeiro Nome: {nome1}")
-print(f"Primeira Idade: {idade1}")
-print(f"Primeiro Peso: {peso1}")
-print(f"Primeira Altura: {altura1}")
-
-print(f"Segundo Nome: {nome2}")
-print(f"Segunda Idade: {idade2}")
-print(f"Segundo Peso: {peso2}")
-print(f"Segunda Altura: {altura2}")
-
-print(f"Terceiro Nome: {nome3}")
-print(f"Terceira Idade: {idade3}")
-print(f"Terceiro Peso: {peso3}")
-print(f"Terceira Altura: {altura3}")
+print(f"Primeiro Nome: {nome1}" + f" Primeira Idade: {idade1}" + f" Primeiro Peso: {peso1}" + f" Primeira Altura: {altura1}")
+print(f"Segundo Nome: {nome2}"  + f" Segunda Idade: {idade2}" + f" Segundo Peso: {peso2}" + f" Segunda Altura: {altura2}")
+print(f"Terceiro Nome: {nome3}" + f" Terceira Idade: {idade3}" + f" Terceiro Peso: {peso3}" + f" Terceira Altura: {altura3}")
 
